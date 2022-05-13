@@ -440,7 +440,7 @@
   position: relative;
 }
 
-.logo__place_footer {
+.logo_place_footer {
   position: absolute;
   background: url(../images/logo_white.svg) no-repeat;
 }
