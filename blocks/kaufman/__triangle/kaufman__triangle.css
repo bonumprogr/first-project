@@ -8,6 +8,5 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
-  animation: rotation linear 20s infinite;
   z-index: 0;
 }
