@@ -1,4 +1,7 @@
-@import url("./normalize.css");
+@import url("../vendor/normalize.css");
+@import url("../fonts/fonts.css");
+@import url("../blocks/pages/pages.css");
+@import url("../blocks/rotation/rotation.css");
 @import url("../blocks/description/description.css");
 @import url("../blocks/digits/digits.css");
 @import url("../blocks/feynman/feynman.css");
@@ -82,4 +85,3 @@
 @import url("../blocks/video/video.css");
 @import url("../blocks/video/__iframe/video__iframe.css");
 @import url("../blocks/video/__iframes/video__iframes.css");
-@import url("../pages/pages.css");
