@@ -6,3 +6,7 @@
   font-weight: normal;
   padding-left: 20px;
 }
+
+.footer__column-links .footer__column-link {
+  padding-left: 0;
+}
